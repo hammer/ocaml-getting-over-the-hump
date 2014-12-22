@@ -5,5 +5,5 @@
 * [Build](build.md)
 * [Test](test.md)
 * [Profile](profile.md)
-* Libraries
+* [Libraries](libraries.md)
 
