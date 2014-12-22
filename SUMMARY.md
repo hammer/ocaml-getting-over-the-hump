@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Project Structure](project_structure.md)
    * Libraries
+       * Applications
 * [Libraries](libraries.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
