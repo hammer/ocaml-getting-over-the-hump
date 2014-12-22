@@ -4,6 +4,6 @@
 * Project Structure
 * [Build](ocaml_build_tools.md)
 * [Test](test.md)
-* Profile
+* [Profile](profile.md)
 * Libraries
 
