@@ -7,4 +7,5 @@
 * [Build](build.md)
 * [Test](test.md)
 * [Profile](profile.md)
+* IDE
 
