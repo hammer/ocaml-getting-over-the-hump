@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Build](ocaml_build_tools.md)
-   * Project Structure
+* Project Structure
 * Test
 * Profile
 
