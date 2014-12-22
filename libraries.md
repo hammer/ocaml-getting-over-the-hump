@@ -11,3 +11,15 @@
 * [Cmdliner](https://github.com/dbuenzli/cmdliner)
 
 ## Logging
+* [dolog](https://github.com/UnixJunkie/dolog)
+* [bolt](http://bolt.x9c.fr)
+* [volt](https://github.com/codinuum/volt)
+
+## Serialization
+* [yojson](https://github.com/mjambon/yojson)
+* [biniou](https://github.com/mjambon/biniou)
+* [atd](https://github.com/mjambon/atd)
+* [atdgen](https://github.com/mjambon/atdgen)
+* [atd2cconv](https://github.com/smondet/atd2cconv)
+* [thrift](https://github.com/apache/thrift/tree/master/lib/ocaml)
+* [piqi](https://github.com/alavrik/piqi-ocaml)
