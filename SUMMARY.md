@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [Project Structure](project_structure.md)
    * Applications
+   * Servers
    * Libraries
-* Servers
 * [Libraries](libraries.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
