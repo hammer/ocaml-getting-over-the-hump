@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Project Structure
+* [Project Structure](project_structure.md)
 * [Libraries](libraries.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
