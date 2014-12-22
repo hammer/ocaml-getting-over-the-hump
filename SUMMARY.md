@@ -6,5 +6,5 @@
 * [Test](test.md)
 * [Profile](profile.md)
 * [Libraries](libraries.md)
-* Idioms
+* [Idioms](idioms.md)
 
