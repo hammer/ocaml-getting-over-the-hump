@@ -4,6 +4,7 @@
 * [Project Structure](project_structure.md)
    * Applications
    * Libraries
+       * Servers
 * [Libraries](libraries.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
