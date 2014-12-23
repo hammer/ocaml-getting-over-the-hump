@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Libraries](libraries.md)
+* [Test](test.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
-* [Test](test.md)
 * [Profile](profile.md)
 * [IDE](ide.md)
 * [Toplevel](toplevel.md)
