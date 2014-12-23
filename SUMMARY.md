@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Project Structure](project_structure.md)
 * [Libraries](libraries.md)
+* [Project Structure](project_structure.md)
 * [Idioms](idioms.md)
 * [Build](build.md)
 * [Test](test.md)
