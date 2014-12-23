@@ -1,7 +1,6 @@
 # Libraries
 
 ## OPAM
-* To install the latest OPAM, use `brew install opam --HEAD`
 * [Specifying solver preferences](https://opam.ocaml.org/doc/Specifying_Solver_Preferences.html) (helpful when dealing with core)
  * [Relevant Stack Overflow question](http://stackoverflow.com/questions/21594555/opam-upgrade-wants-to-downgrade-a-bunch-of-packages)
 
