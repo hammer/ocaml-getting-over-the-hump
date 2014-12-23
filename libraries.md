@@ -1,5 +1,8 @@
 # Libraries
 
+## OPAM
+* [Specifying solver preferences](https://opam.ocaml.org/doc/Specifying_Solver_Preferences.html) (helpful when dealing with core)
+
 ## Standard libraries
 * [core](https://github.com/janestreet/core)
 * [batteries](https://github.com/ocaml-batteries-team/batteries-included)
