@@ -23,6 +23,7 @@
 * [volt](https://github.com/codinuum/volt)
 
 ## Serialization
+* [Marshal](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Marshal.html)
 * [yojson](https://github.com/mjambon/yojson)
 * [biniou](https://github.com/mjambon/biniou)
 * [atd](https://github.com/mjambon/atd)
