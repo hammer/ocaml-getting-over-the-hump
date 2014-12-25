@@ -31,3 +31,7 @@
 * [atd2cconv](https://github.com/smondet/atd2cconv)
 * [thrift](https://github.com/apache/thrift/tree/master/lib/ocaml)
 * [piqi](https://github.com/alavrik/piqi-ocaml)
+
+## Web
+* [Cohttp](https://github.com/mirage/ocaml-cohttp)
+ * [Simple client](http://stackoverflow.com/a/27648756/171965)
