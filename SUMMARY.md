@@ -8,6 +8,6 @@
 * [Profile](profile.md)
 * [IDE](ide.md)
 * [Toplevel](toplevel.md)
-* Persistence
+* [Persistence](persistence.md)
 * [Designing Complex Programs](designing_complex_programs.md)
 
