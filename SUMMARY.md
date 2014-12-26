@@ -9,4 +9,5 @@
 * [IDE](ide.md)
 * [Toplevel](toplevel.md)
 * [Designing Complex Programs](designing_complex_programs.md)
+* Persistence
 
