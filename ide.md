@@ -19,3 +19,4 @@
 (add-hook 'tuareg-mode-hook 'utop-setup-ocaml-buffer)
 (add-hook 'typerex-mode-hook 'utop-setup-ocaml-buffer)
 ```
+* http://mads-hartmann.com/ocaml/2014/01/05/using-utop-in-emacs.html
