@@ -12,3 +12,10 @@
 * `C-c C-u` to refresh
 * [Configuration with `.merlin`](https://github.com/the-lambda-church/merlin/wiki/project-configuration)
   * `PKG ...`
+
+### [utop](https://github.com/diml/utop)
+```
+(autoload 'utop-setup-ocaml-buffer "utop" "Toplevel for OCaml" t)
+(add-hook 'tuareg-mode-hook 'utop-setup-ocaml-buffer)
+(add-hook 'typerex-mode-hook 'utop-setup-ocaml-buffer)
+```
