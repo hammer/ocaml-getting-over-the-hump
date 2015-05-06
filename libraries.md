@@ -109,6 +109,11 @@
     - [`akabe/sgpr`](https://github.com/akabe/sgpr) & [`akabe/slap`](https://github.com/akabe/slap)
         - Wrappers of respectively GPR and Lacaml with cool type-based static
           size checking (and higher-level API).
+- Machine learning
+    - [`andrejbauer/kmeans`](https://github.com/andrejbauer/kmeans)
+- Broad coverage
+    - [`akabe/ocaml-numerical-analysis`](https://github.com/akabe/ocaml-numerical-analysis)
+    - [`rleonid/oml`](https://github.com/rleonid/oml)
 - Obsolete and/or too young projects:
     - [`samoht/ocamlmath`](https://github.com/samoht/ocamlmath)
         - Mirror of <https://forge.ocamlcore.org/projects/mathocaml>
