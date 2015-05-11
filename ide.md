@@ -1,5 +1,7 @@
 # IDE
 
+* [ocaml-user-setup](https://github.com/OCamlPro/opam-user-setup)
+
 ## Emacs
 ### [Tuareg](https://github.com/ocaml/tuareg)
 * `(setq tuareg-font-lock-symbols t)` to get `'a` to display as `α`
