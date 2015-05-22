@@ -36,6 +36,10 @@
 * [Cohttp](https://github.com/mirage/ocaml-cohttp)
 * [Simple client](http://stackoverflow.com/a/27648756/171965)
  
+## Cloud
+* [afiniate/aws_async](https://github.com/afiniate/aws_async)
+* [barko/aws](https://github.com/barko/aws) (last commit 2011)
+
 ## Math
 
 
