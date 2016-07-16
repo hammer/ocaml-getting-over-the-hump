@@ -1,7 +1,10 @@
 # OCaml Build Tools
 
 * [findlib](http://projects.camlcity.org/projects/findlib.html)
+
+## Project structure
 * [Discussion on reddit](https://www.reddit.com/r/ocaml/comments/4scvlj/starting_a_new_project_what_is_current_best/)
+* [dbuenzli/carcass](https://github.com/dbuenzli/carcass)
 
 ## Documentation
 * [codoc](https://github.com/dsheets/codoc)
