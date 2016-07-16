@@ -1,6 +1,7 @@
 # OCaml Build Tools
 
 * [findlib](http://projects.camlcity.org/projects/findlib.html)
+* [Discussion on reddit](https://www.reddit.com/r/ocaml/comments/4scvlj/starting_a_new_project_what_is_current_best/)
 
 ## Documentation
 * [codoc](https://github.com/dsheets/codoc)
