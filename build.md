@@ -9,6 +9,9 @@
 ## Documentation
 * [codoc](https://github.com/dsheets/codoc)
 
+## Build
+* [solvuu/solvuu-build](https://github.com/solvuu/solvuu-build)
+
 ## From Ashish
 * **ocamlscript**: Use this for single file scripts.
 * [oasis](https://github.com/ocaml/oasis): Good for small projects. You provide a high level description of your project, and oasis automatically generates a build script for you. It is widely used, but starts to fail on more complex projects.
