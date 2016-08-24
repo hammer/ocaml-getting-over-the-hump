@@ -11,6 +11,7 @@
 
 ## Build
 * [solvuu/solvuu-build](https://github.com/solvuu/solvuu-build)
+* [AbsInt/ocaml-buildutils](https://github.com/AbsInt/ocaml-buildutils)
 
 ## From Ashish
 * **ocamlscript**: Use this for single file scripts.
