@@ -28,5 +28,9 @@
 * **Jenga**: A new build tool by Jane Street. It hasn't been officially announced yet, but there will be a talk on it at the next OCaml Paris Meetup. Its design appears good, but there aren't many examples or documentation yet.
 * [Assemblage](https://github.com/samoht/assemblage): what we want to use when it’s ready
 
+## Blog posts
+
+* [Building and Publishing an OCaml Package: Q1 2017](http://kcsrk.info/ocaml/opam/topkg/carcass/2017/03/05/building-and-publishing-an-OCaml-package/)
+
 
 
