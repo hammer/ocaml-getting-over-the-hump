@@ -11,6 +11,7 @@
 ## Documentation
 
 * [codoc](https://github.com/dsheets/codoc)
+* [ocaml-doc/odoc](https://github.com/ocaml-doc/odoc)
 
 ## Build
 
